@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <div style="text-align: justify;">
   💼I'm an experienced IT professional with over 7 years of experience. Transistioned to Software and Machine Learning Engineer roles.
   <br>🎓Recently graduated with distinction from Master of IT in Software Design and Development and currently upskilling in Generative AI.
+  <br>🥅Aspiring to be an AI Consultant in 5 years!
 </div>
 
 ### Skills 🛠️: 
